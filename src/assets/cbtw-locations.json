@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738, 48.2082]
+      },
+      "properties": {
+        "address": "Mariahilfer Strasse 93/2/20",
+        "city": "Vienna",
+        "country": "Austria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.7217, 51.0543]
+      },
+      "properties": {
+        "address": "Sluisweg 1",
+        "city": "Ghent",
+        "country": "Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.4200, 51.2211]
+      },
+      "properties": {
+        "address": "Filip Williotstraat, 9",
+        "city": "Antwerp",
+        "country": "Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3480, 50.8503]
+      },
+      "properties": {
+        "address": "Chaussée de Charleroi 112",
+        "city": "Bruxelles",
+        "country": "Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3241, 42.6977]
+      },
+      "properties": {
+        "address": "127 G.S.Rakovski St",
+        "city": "Sofia",
+        "country": "Bulgaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.8910, 45.6495]
+      },
+      "properties": {
+        "address": "18, allée Lac Saint André",
+        "city": "Le Bourget du Lac",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.8255, 45.7640]
+      },
+      "properties": {
+        "address": "2, Quai du Commerce",
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3311, 48.8758]
+      },
+      "properties": {
+        "address": "34 Rue Laffitte",
+        "city": "Paris",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5537, 47.2184]
+      },
+      "properties": {
+        "address": "Building ZERO NEWTON, 3 place Albert Camus, BP 90222",
+        "city": "Nantes",
+        "country": "France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5754, 48.1371]
+      },
+      "properties": {
+        "address": "Neuturmstrasse 5",
+        "city": "Munich",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.6821, 50.1109]
+      },
+      "properties": {
+        "address": "Wildunger Straße 6/6a",
+        "city": "Frankfurt",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3889, 52.5170]
+      },
+      "properties": {
+        "address": "Friedrichstraße 121",
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1065, 49.6116]
+      },
+      "properties": {
+        "address": "1, rue du Fort Rheinsheim",
+        "city": "Luxembourg",
+        "country": "Luxembourg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6220, 46.5197]
+      },
+      "properties": {
+        "address": "Avenue d'Ouchy 4",
+        "city": "Lausanne",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1104, 46.2044]
+      },
+      "properties": {
+        "address": "Chemin du Pré-Fleuri,5",
+        "city": "Plan-les-Ouates",
+        "country": "Switzerland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1255, 51.5226]
+      },
+      "properties": {
+        "address": "Hamilton House, Mabledon Place",
+        "city": "London",
+        "country": "United Kingdom"
+      }
+    }
+  ]
+}

@@ -192,6 +192,222 @@
         "city": "London",
         "country": "United Kingdom"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.0719, 51.0427]
+      },
+      "properties": {
+        "address": "1410 1122 4 St. SW",
+        "city": "Calgary",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1094, 49.2819]
+      },
+      "properties": {
+        "address": "163 W Hastings St #209",
+        "city": "Vancouver",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3922, 43.6486]
+      },
+      "properties": {
+        "address": "296 Richmond Street W",
+        "city": "Toronto",
+        "country": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7488]
+      },
+      "properties": {
+        "address": "132 West 31st Street, 9th FLR",
+        "city": "New York",
+        "country": "USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1918, 25.7617]
+      },
+      "properties": {
+        "address": "801 Brickell Ave Suite 900",
+        "city": "Miami",
+        "country": "USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.9646, -37.8136]
+      },
+      "properties": {
+        "address": "24, 570 Bourke Street",
+        "city": "Melbourne",
+        "country": "Australia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1671, 22.2820]
+      },
+      "properties": {
+        "address": "26/F Beautiful Group Tower, 77 Connaught Road",
+        "city": "Hong Kong",
+        "country": "Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1457, 22.3285]
+      },
+      "properties": {
+        "address": "Unit 304-7 3/F Laford Centre 838 Lai Chi Kok Road",
+        "city": "Cheung Sha Wan, Kowloo",
+        "country": "Hong Kong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.2060, 12.9716]
+      },
+      "properties": {
+        "address": "Regus Prince Info City II, 283/3 And 283/4, Old Mahabalipuram Rd, Opposite KLA Tower",
+        "city": "Chennai",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.4084, 17.3850]
+      },
+      "properties": {
+        "address": "3-225 & 226, 3rd Floor, Cowork Valley, Divya Diamonds Junction, Kavuri Hills Phase 2 Rd",
+        "city": "Hyderabad",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.5946, 12.9716]
+      },
+      "properties": {
+        "address": "37/1, 1st Floor, Cunningham Road",
+        "city": "Bengaluru",
+        "country": "India"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5536, 14.5364]
+      },
+      "properties": {
+        "address": "10th Floor, Two E-com Center, Tower A Harbor Drive cor Palm Coast Ave., Mall of Asia Complex",
+        "city": "Pasay City, Manila",
+        "country": "Philippines"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8528, 1.2801]
+      },
+      "properties": {
+        "address": "20, Suite2021 ARCC Spaces, 1 Marina Boulevard",
+        "city": "Singapore",
+        "country": "Singapore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5637, 25.0330]
+      },
+      "properties": {
+        "address": "6F, No. 168, Jingmao 2nd Road",
+        "city": "Nangang District Taipei",
+        "country": "Taiwan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6958, 10.7769]
+      },
+      "properties": {
+        "address": "e.town 1 & 3, 364 Cong Hoa Tan Binh",
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.8156, 21.0285]
+      },
+      "properties": {
+        "address": "TNR Tower, level 22, 54A Nguyen Chi Thanh Dong Da",
+        "city": "Hanoi",
+        "country": "Vietnam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.2077, 36.8065]
+      },
+      "properties": {
+        "address": "Immeuble Khairi bureau B2-5 Centre Urbain Nord",
+        "city": "Tunis",
+        "country": "Tunisia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0758, 4.6097]
+      },
+      "properties": {
+        "address": "Cra. 11B # 99 25",
+        "city": "Bogotá",
+        "country": "Colombia"
+      }
     }
   ]
 }
